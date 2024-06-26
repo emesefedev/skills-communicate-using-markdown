@@ -1,11 +1,11 @@
-# H1
+# Communicate using Markdown
 
-## H2
+## Headers
 
-### H3
+H1 (biggest), H2, H3, H4, H5 and H6 (smallest)
 
-#### H4
+## Images
 
-##### H5
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-###### H6
+
