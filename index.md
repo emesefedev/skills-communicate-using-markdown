@@ -8,4 +8,8 @@ H1 (biggest), H2, H3, H4, H5 and H6 (smallest)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+## Code
 
+``` javascript
+const message = "Hello, World!";
+```
